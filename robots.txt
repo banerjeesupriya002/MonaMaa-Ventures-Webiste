@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monamaa.com/sitemap.xml
